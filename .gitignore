@@ -1,0 +1,15 @@
+# Runtime / generated — never commit
+*.db
+*.db-shm
+*.db-wal
+*.der
+*.p12
+*.jks
+data/
+storage/
+keys/
+target/
+vault.db
+node_modules/
+dist/
+.env
